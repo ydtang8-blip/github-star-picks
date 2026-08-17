@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T11:15:31.827143+00:00",
+  "updated_at": "2026-08-17T11:16:38.610997+00:00",
   "login": "yj438863687",
   "items": [
     {
@@ -9,9 +9,9 @@
       "fork_url": "https://github.com/yj438863687/public-apis",
       "language": "Python",
       "stars": 461981,
-      "status": "useful",
+      "status": "downloaded",
       "summary_zh": "A collective list of free APIs",
-      "local_path": ""
+      "local_path": "C:\\Users\\43886\\Documents\\github-stars\\public-apis__public-apis"
     },
     {
       "full_name": "vercel-labs/eve-software-factory-template",
