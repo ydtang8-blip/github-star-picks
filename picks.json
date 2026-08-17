@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T11:16:38.610997+00:00",
+  "updated_at": "2026-08-17T11:16:55.610055+00:00",
   "login": "yj438863687",
   "items": [
     {
@@ -9,7 +9,7 @@
       "fork_url": "https://github.com/yj438863687/public-apis",
       "language": "Python",
       "stars": 461981,
-      "status": "downloaded",
+      "status": "useful",
       "summary_zh": "A collective list of free APIs",
       "local_path": "C:\\Users\\43886\\Documents\\github-stars\\public-apis__public-apis"
     },
