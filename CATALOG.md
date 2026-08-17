@@ -7,5 +7,5 @@
 
 | 原仓库 | 我的 fork | 语言 | Star | 状态 | 摘要 |
 | --- | --- | --- | ---: | --- | --- |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | [yj438863687/public-apis](https://github.com/yj438863687/public-apis) | Python | 461981 | downloaded | A collective list of free APIs |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | [yj438863687/public-apis](https://github.com/yj438863687/public-apis) | Python | 461981 | useful | A collective list of free APIs |
 | [vercel-labs/eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) | [yj438863687/eve-software-factory-template](https://github.com/yj438863687/eve-software-factory-template) | TypeScript | 838 | downloaded | Meet Foreman, an eve Software Factory. |
