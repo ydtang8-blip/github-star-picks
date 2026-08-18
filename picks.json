@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T03:18:21.016734+00:00",
+  "updated_at": "2026-08-18T03:20:13.001970+00:00",
   "login": "yj438863687",
   "items": [
     {
@@ -11,6 +11,17 @@
       "stars": 171395,
       "status": "useful",
       "summary_zh": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+      "local_path": ""
+    },
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "fork_full_name": "yj438863687/deepseek-harness",
+      "html_url": "https://github.com/deepseek-ai/deepseek-harness",
+      "fork_url": "https://github.com/yj438863687/deepseek-harness",
+      "language": "TypeScript",
+      "stars": 150549,
+      "status": "useful",
+      "summary_zh": "DeepSeek Harness: Everything is a Plugin.",
       "local_path": ""
     },
     {
