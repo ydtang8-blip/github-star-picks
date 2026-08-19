@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T03:22:55.259863+00:00",
+  "updated_at": "2026-08-19T01:41:24.958645+00:00",
   "login": "yj438863687",
   "items": [
     {
@@ -8,10 +8,10 @@
       "html_url": "https://github.com/521xueweihan/HelloGitHub",
       "fork_url": "https://github.com/yj438863687/HelloGitHub",
       "language": "Python",
-      "stars": 171395,
-      "status": "useful",
+      "stars": 171587,
+      "status": "downloaded",
       "summary_zh": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
-      "local_path": ""
+      "local_path": "C:\\Users\\43886\\Documents\\github-stars\\521xueweihan__HelloGitHub"
     },
     {
       "full_name": "deepseek-ai/deepseek-harness",
@@ -19,7 +19,7 @@
       "html_url": "https://github.com/deepseek-ai/deepseek-harness",
       "fork_url": "https://github.com/yj438863687/deepseek-harness",
       "language": "TypeScript",
-      "stars": 150549,
+      "stars": 160292,
       "status": "useful",
       "summary_zh": "DeepSeek Harness: Everything is a Plugin.",
       "local_path": ""
@@ -30,7 +30,7 @@
       "html_url": "https://github.com/public-apis/public-apis",
       "fork_url": "https://github.com/yj438863687/public-apis",
       "language": "Python",
-      "stars": 461981,
+      "stars": 464515,
       "status": "downloaded",
       "summary_zh": "A collective list of free APIs",
       "local_path": "C:\\Users\\43886\\Documents\\github-stars\\public-apis__public-apis"
@@ -45,6 +45,17 @@
       "status": "downloaded",
       "summary_zh": "Meet Foreman, an eve Software Factory.",
       "local_path": "C:\\Users\\43886\\Documents\\github-stars\\vercel-labs__eve-software-factory-template"
+    },
+    {
+      "full_name": "immich-app/immich",
+      "fork_full_name": null,
+      "html_url": "https://github.com/immich-app/immich",
+      "fork_url": null,
+      "language": "TypeScript",
+      "stars": 111173,
+      "status": "useful",
+      "summary_zh": "High performance self-hosted photo and video management solution.",
+      "local_path": ""
     }
   ]
 }
