@@ -1,5 +1,127 @@
 {
-  "updated_at": "2026-08-19T01:43:22.336291+00:00",
+  "updated_at": "2026-08-19T03:19:33.915665+00:00",
   "login": "yj438863687",
-  "items": []
+  "items": [
+    {
+      "full_name": "public-apis/public-apis",
+      "fork_full_name": "yj438863687/public-apis",
+      "html_url": "https://github.com/public-apis/public-apis",
+      "fork_url": "https://github.com/yj438863687/public-apis",
+      "language": "Python",
+      "stars": 464720,
+      "status": "downloaded",
+      "summary_zh": "A collective list of free APIs",
+      "local_path": "C:\\Users\\43886\\Documents\\github-stars\\public-apis__public-apis"
+    },
+    {
+      "full_name": "521xueweihan/HelloGitHub",
+      "fork_full_name": "yj438863687/HelloGitHub",
+      "html_url": "https://github.com/521xueweihan/HelloGitHub",
+      "fork_url": "https://github.com/yj438863687/HelloGitHub",
+      "language": "Python",
+      "stars": 171610,
+      "status": "downloaded",
+      "summary_zh": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+      "local_path": "C:\\Users\\43886\\Documents\\github-stars\\521xueweihan__HelloGitHub"
+    },
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "fork_full_name": "yj438863687/deepseek-harness",
+      "html_url": "https://github.com/deepseek-ai/deepseek-harness",
+      "fork_url": "https://github.com/yj438863687/deepseek-harness",
+      "language": "TypeScript",
+      "stars": 161628,
+      "status": "downloaded",
+      "summary_zh": "DeepSeek Harness: Everything is a Plugin.",
+      "local_path": "C:\\Users\\43886\\Documents\\github-stars\\deepseek-ai__deepseek-harness"
+    },
+    {
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "fork_full_name": "yj438863687/MoneyPrinterTurbo",
+      "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "fork_url": "https://github.com/yj438863687/MoneyPrinterTurbo",
+      "language": "Python",
+      "stars": 108776,
+      "status": "downloaded",
+      "summary_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "local_path": "C:\\Users\\43886\\Documents\\github-stars\\harry0703__MoneyPrinterTurbo"
+    },
+    {
+      "full_name": "Evil0ctal/Douyin_TikTok_Download_API",
+      "fork_full_name": "yj438863687/Douyin_TikTok_Download_API",
+      "html_url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+      "fork_url": "https://github.com/yj438863687/Douyin_TikTok_Download_API",
+      "language": "Python",
+      "stars": 19428,
+      "status": "downloaded",
+      "summary_zh": "🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。",
+      "local_path": "C:\\Users\\43886\\Documents\\github-stars\\Evil0ctal__Douyin_TikTok_Download_API"
+    },
+    {
+      "full_name": "anywhere-labs/deepseek-harness-desktop",
+      "fork_full_name": "yj438863687/deepseek-harness-desktop",
+      "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "fork_url": "https://github.com/yj438863687/deepseek-harness-desktop",
+      "language": "TypeScript",
+      "stars": 13893,
+      "status": "downloaded",
+      "summary_zh": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "local_path": "C:\\Users\\43886\\Documents\\github-stars\\anywhere-labs__deepseek-harness-desktop"
+    },
+    {
+      "full_name": "jeecgboot/jimureport",
+      "fork_full_name": "yj438863687/jimureport",
+      "html_url": "https://github.com/jeecgboot/jimureport",
+      "fork_url": "https://github.com/yj438863687/jimureport",
+      "language": "Java",
+      "stars": 8182,
+      "status": "downloaded",
+      "summary_zh": "一款真正的 AI 报表诞生了！JimuChatBI —— 首款免费开源对话式智能数据分析产品（Chat2BI）。 一句话生成报表和数据大屏，支持对话式 AI 修改优化；类 Excel 在线报表设计，兼容国产信创数据源。 对着 AI 说句话，报表就出来了——表格、图表、分组汇总自动生成，复杂报表场景轻松应对。想做数据大屏？同样一句话搞定，让数据分析进入 AI 时代。",
+      "local_path": "C:\\Users\\43886\\Documents\\github-stars\\jeecgboot__jimureport"
+    },
+    {
+      "full_name": "sngyai/Sequoia-X",
+      "fork_full_name": "yj438863687/Sequoia-X",
+      "html_url": "https://github.com/sngyai/Sequoia-X",
+      "fork_url": "https://github.com/yj438863687/Sequoia-X",
+      "language": "Python",
+      "stars": 5377,
+      "status": "downloaded",
+      "summary_zh": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "local_path": "C:\\Users\\43886\\Documents\\github-stars\\sngyai__Sequoia-X"
+    },
+    {
+      "full_name": "chaitanyagiri/munder-difflin",
+      "fork_full_name": "yj438863687/munder-difflin",
+      "html_url": "https://github.com/chaitanyagiri/munder-difflin",
+      "fork_url": "https://github.com/yj438863687/munder-difflin",
+      "language": "TypeScript",
+      "stars": 2131,
+      "status": "downloaded",
+      "summary_zh": "local multi-agent harness",
+      "local_path": "C:\\Users\\43886\\Documents\\github-stars\\chaitanyagiri__munder-difflin"
+    },
+    {
+      "full_name": "vercel-labs/eve-software-factory-template",
+      "fork_full_name": "yj438863687/eve-software-factory-template",
+      "html_url": "https://github.com/vercel-labs/eve-software-factory-template",
+      "fork_url": "https://github.com/yj438863687/eve-software-factory-template",
+      "language": "TypeScript",
+      "stars": 838,
+      "status": "downloaded",
+      "summary_zh": "Meet Foreman, an eve Software Factory.",
+      "local_path": "C:\\Users\\43886\\Documents\\github-stars\\vercel-labs__eve-software-factory-template"
+    },
+    {
+      "full_name": "immich-app/immich",
+      "fork_full_name": null,
+      "html_url": "https://github.com/immich-app/immich",
+      "fork_url": null,
+      "language": "TypeScript",
+      "stars": 111173,
+      "status": "useful",
+      "summary_zh": "High performance self-hosted photo and video management solution.",
+      "local_path": ""
+    }
+  ]
 }
